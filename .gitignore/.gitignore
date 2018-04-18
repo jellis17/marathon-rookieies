@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+    <!--
+        WWW Assignment
+        Part 1
+        
+        Marathon_Junkie Home Page
+        Author: Jaden Ellis
+        Date: April 6 2018
+    -->
+    
+        <title>Marathon Junkie</title>
+        <link href="index.css" rel="stylesheet" type="text/css" /> 
+    </head>
+    
+    <body>
+        
+    <header>
+        <h1>Marathon Junkie<img src="images.png" alt="running man" width="42" height="42"></h1>
+        
+        <nav>
+            <ul>
+                <li><a href="http://www.marathonrookie.com">Marathon Rookie</a></li>
+                <li><a href="http://www.runnersworld.com">Runners World</a></li>
+                <li><a href="page2.htm">Running Schedule</a></li>
+                <li><a href="page3.htm">#</a></li>
+            </ul>
+        </nav>
+    </header>
+        
+    <section>
+        <p>Welcome to <b>Marathon_Junkie!</b> On this website you will be able to recive help
+           in tranning for your next marathon, wether it's a 5k or full marathon. There
+           will be a link that will lead you too a full and half marathon running shcedule.
+            Hope the information provided will help!</p>
+    </section>
+    
+    <aside>
+        <ul>
+            <li><h1><strong>Eating Healthy</strong></h1>
+            <p>One of the most important things of being able to stay healthy
+               while training is keeping a balanced diet. Some good foods to
+               Have in your daily diet are as follows:<p>
+                <ul><li>Fruits (banana's are very good)</li>
+                    <li>Vegtables- such as carraots</li>
+                    <li>Protien- Grilled chickem is one of the best sources of protein</li>
+                    <li>GU- (a special packet of protein)</li>
+                </ul></li>
+            <li><h1><strong>Stretching</strong></h1>
+                <p>Stretching is the way that runners keep there mucles from tightining up.
+                   Part of running is to build up muscle but in order to us that newly created
+                   muscle mass you have to stretch to make the muscles grow longer in length.
+                   Below is a list of stretches that can be done.</p></li>
+            <li><h1>Pre-run stretch list</h1>
+                <ol><li>Leg Stretches: Stretches like touching your toes and quads should be done first.</li>
+                    <li>Core Sretches: Chrunches/Sit-ups are a great exercise to do to warm up your core muscles.</li>
+                    <li>Arm Stretches: Your arms are used in running more than most people would think, it is important
+                        to keep your arms loose. Doing a few arm stretches like arms to side and over the head will keep
+                        them <i>limber</i>.</li>
+                </ol>
+            </li>
+                        
+        </ul>
+    </aside>
+        
+    </body>
+
+</html>
